@@ -1,4 +1,4 @@
-package com.Session5.Assignment2;
+package com.Session6.Assignment2;
 
 public class BuildingExample {
 
